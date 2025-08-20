@@ -45,11 +45,11 @@
 
 📦 SupermarketDB
 
- ┣ 📜 supermarket.sql       # Main SQL script (tables, inserts, triggers, sample data)
+ │── 📜 supermarket.sql       # Main SQL script (tables, inserts, triggers, sample data)
  
- ┣ 📜 README.md             # Project documentation
+ │── 📜 README.md             # Project documentation
  
- ┗ 📜 queries.sql           # Example SQL queries for reports
+ │── 📜 queries.sql           # Example SQL queries for reports
 
 
  🚀 How to Run
