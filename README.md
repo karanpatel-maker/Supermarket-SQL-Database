@@ -3,26 +3,28 @@
 
 ⚙️ Features
 
-👥 Customer Management – Stores customer details (Name, Contact, Address).
+  1. 👥 Customer Management – Stores customer details (Name, Contact, Address).
 
-📦 Product Management – Handles product categories, prices, and stock levels.
+  2. 📦 Product Management – Handles product categories, prices, and stock levels.
 
-🧑‍💼 Employee Management – Maintains records of employees (Cashiers, Managers, Sales Assistants).
+  3.🧑‍💼 Employee Management – Maintains records of employees (Cashiers, Managers, Sales Assistants).
 
-💳 Sales Transactions – Records daily sales and line items with product details.
+  4. 💳 Sales Transactions – Records daily sales and line items with product details.
 
-🔒 Data Integrity – Trigger prevents negative stock after sales.
+  5. 🔒 Data Integrity – Trigger prevents negative stock after sales.
+
+     
 
 📊 Reports & Queries – Generate insights like:
 
-  . Top customers by spending
+   . Top customers by spending
 
-  . Most sold products
+   . Most sold products
 
-  . Daily/Monthly revenue
+   . Daily/Monthly revenue
 
-  . Employee performance
-
+   . Employee performance
+   
 
 🛠️ Tech Stack
 
