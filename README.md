@@ -7,7 +7,7 @@
 
   2. 📦 Product Management – Handles product categories, prices, and stock levels.
 
-  3.🧑‍💼 Employee Management – Maintains records of employees (Cashiers, Managers, Sales Assistants).
+  3. 🧑‍💼 Employee Management – Maintains records of employees (Cashiers, Managers, Sales Assistants).
 
   4. 💳 Sales Transactions – Records daily sales and line items with product details.
 
